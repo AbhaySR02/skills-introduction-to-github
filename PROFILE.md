@@ -1,1 +1,1 @@
-welcome to my guthub profile
+welcome to my github profile
